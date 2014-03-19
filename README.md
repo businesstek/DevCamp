@@ -1,5 +1,5 @@
-hotshot
-Files for the jQuery Hotshot book
+DevCamp
+Project files for Code Club first quarter 2014
 
 Website
 
